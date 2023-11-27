@@ -1,3 +1,4 @@
 proj_venv/
 data/
 samwrapper/
+__pycache__/
